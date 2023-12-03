@@ -11,7 +11,7 @@
   "contributes": {
     "themes": [{
       "label": "Stylix",
-      "uiTheme": "vs",
+      "uiTheme": "vs-dark",
       "path": "./themes/stylix.json"
     }]
   }
